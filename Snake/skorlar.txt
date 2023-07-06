@@ -1,0 +1,8 @@
+deneme1	24
+deneme6 17
+deneme3 15
+deneme4 14
+deneme5 13
+deneme2 11
+deneme7 10
+denemeson 4
